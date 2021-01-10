@@ -7,7 +7,7 @@ import tweepy
 import os
 import sys
 
-libdir = os.path.join(os.path.dirname(os.path.dirname(os.path.realpath(__file__))), 'BandMonitor2')
+libdir = os.path.join(os.path.dirname(os.path.dirname(os.path.realpath(__file__))), 'e-Paper_BandwithMonitor')
 if os.path.exists(libdir):
     sys.path.append(libdir)
    
