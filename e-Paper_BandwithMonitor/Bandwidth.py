@@ -24,10 +24,10 @@ font4 = ImageFont.truetype('/usr/share/fonts/truetype/roboto/Roboto-Thin.ttf', 1
 font5 = ImageFont.truetype('/usr/share/fonts/truetype/msttcorefonts/Verdana_Bold.ttf', 23)
 
 
-consumer_key="ULEXCDPJTFP0SA2pmrNo26SnK"
-consumer_secret="6OKUzGGM29OFVU9puWeCXzIcFrvmpkaEcXuzJo2u6cveA4lVBl"
-access_token="107176284-CZ0mH4jkKVIrEKn0KArxOcWSa21aKT8QEpR9v361"
-access_token_secret="Bctl7a0NUOpG4cv8nUIFbMwJFZQ0R5JVA33wutnyRZ8Qf"
+consumer_key="CHANGE THIS"
+consumer_secret="CHANGE THIS"
+access_token="CHANGE THIS"
+access_token_secret="CHANGE THIS"
 
 
 
